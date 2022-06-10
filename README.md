@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @konika
+- 👋 Hi, I’m konika
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning to make github repositories
 - 💞️ I’m looking to collaborate on making better tools.
